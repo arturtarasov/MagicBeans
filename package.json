@@ -1,0 +1,6 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "solidity-coverage": "^0.7.21"
+  }
+}

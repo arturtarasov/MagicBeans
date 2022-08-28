@@ -1,5 +1,25 @@
 {
-  "name": "hardhat-project",
+  "name": "magicbeans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturtarasov/MagicBeans.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturtarasov/MagicBeans/issues"
+  },
+  "homepage": "https://github.com/arturtarasov/MagicBeans#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.2"
+  },
   "dependencies": {
     "solidity-coverage": "^0.7.21"
   }
